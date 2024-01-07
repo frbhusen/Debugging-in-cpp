@@ -31,28 +31,28 @@ int main(){
 ```
 
 ## Output:
-### '[a, b, c, d, e] = [5, true, 'c', 1.52]'
+### [a, b, c, d, e] = [5, true, 'c', 1.52]
 
 ### All the working data types    
-   - int
-   - char
-   - double
-   - float
-   - long long
-   - unsinged <data type>
-   - string
-   - vector
-   - set
-   - map
-   - pair
-   - multiset
-   - #### The debug works with collections types which you can iterate by 
+- int
+- char
+- double
+- float
+- long long
+- unsinged <data type>
+- string
+- vector
+- set
+- map
+- pair
+- multiset
+- #### The debug works with collections types which you can iterate by 
    ```c++
    for(auto it : a)
    ```
 ### Data types that does not work
 
- - stack
+- stack
  - queue
  - deque
  - priority_queue

@@ -1,5 +1,8 @@
 
 # Debugging in C++
+
+> A lightweight C++ header-only utility that provides a variadic `debug()` macro for pretty-printing variable names and their values to `stderr` during local development, with support for all primitive types and iterable STL containers.
+
 ## Usage/Examples
 
 ### How to use it :
